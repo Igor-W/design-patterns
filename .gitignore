@@ -1,0 +1,7 @@
+$ cat .gitignore
+*~
+*.css.map
+info.txt
+npm-debug.log
+.idea
+.sass-cache/
